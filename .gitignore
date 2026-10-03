@@ -1,0 +1,10 @@
+# Downloaded official raw input (re-created by analysis.py)
+data/kpx_original.csv
+data/download_candidate.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store

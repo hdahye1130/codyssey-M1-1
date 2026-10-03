@@ -1,0 +1,17 @@
+{
+  "at_least_100_points": true,
+  "three_questions": true,
+  "at_least_two_methods": true,
+  "three_pngs": true,
+  "three_insights": true,
+  "quality_explained": true,
+  "source_and_period": true,
+  "requirements_exists": true,
+  "readme_exists": true,
+  "ai_log": true,
+  "image_links": true,
+  "original_hourly_daily_monthly_totals_match": true,
+  "first7_mean_independent_check": true,
+  "time_grid_complete": true,
+  "code_execution_success": true
+}

@@ -1,0 +1,17 @@
+{
+  "clean_output_rebuild_passed": true,
+  "files_identical": {
+    "REPORT.md": true,
+    "images/01_trend.png": true,
+    "images/02_monthly.png": true,
+    "images/03_variability.png": true,
+    "data/daily_solar.csv": true,
+    "data/hourly_solar.csv": true,
+    "data/monthly_summary.csv": true,
+    "data/results.json": true,
+    "data/validation.json": true
+  },
+  "python_version": "3.12.14",
+  "input_sha256": "3f6f142ded3619a1b6d7d26b8bc8b17d3a9fdf720e68bc26a1d4861dc7e3015b",
+  "environment_note": "Separate empty output directory using current Python and installed dependencies; not a new operating system."
+}
