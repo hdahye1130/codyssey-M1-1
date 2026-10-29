@@ -2,13 +2,13 @@
 <rect width="920" height="430" fill="#ffffff"/>
 <text x="36" y="48" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#14283f">Solar energy by cloudiness (2025)</text>
 <text x="36" y="77" font-family="Arial, sans-serif" font-size="16" fill="#46596f">Mean daily energy (GWh/day) | 17-site cloud proxy</text>
-<text x="42" y="145" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Cloud <=35%</text>
+<text x="42" y="145" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Cloud 0-35%</text>
 <rect x="225" y="117" width="471.1" height="38" rx="7" fill="#e7a13f"/>
 <text x="710.1" y="144" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">42.83</text>
 <text x="42" y="209" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Cloud 35-65%</text>
 <rect x="225" y="181" width="401.0" height="38" rx="7" fill="#69a9b0"/>
 <text x="640.0" y="208" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">36.45</text>
-<text x="42" y="273" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Cloud >=65%</text>
+<text x="42" y="273" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Cloud 65-100%</text>
 <rect x="225" y="245" width="297.8" height="38" rx="7" fill="#74879c"/>
 <text x="536.8" y="272" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">27.07</text>
 <text x="36" y="408" font-family="Arial, sans-serif" font-size="14" fill="#46596f">Cloudiness is an equal-weight ERA5 site average, not plant-level weather.</text>
