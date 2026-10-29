@@ -90,9 +90,9 @@ def build_new_insights(daily, root):
     (root / "images/05_cloud_weather.svg").write_text(bar_svg(
         "Solar energy by cloudiness (2025)", "Mean daily energy (GWh/day) | 17-site cloud proxy",
         [(label, float(cloud.loc[group, "mean"]), color) for group, label, color in [
-            ("clear", "Cloud <=35%", "#e7a13f"),
+            ("clear", "Cloud 0-35%", "#e7a13f"),
             ("partly", "Cloud 35-65%", "#69a9b0"),
-            ("cloudy", "Cloud >=65%", "#74879c")]],
+            ("cloudy", "Cloud 65-100%", "#74879c")]],
         "Cloudiness is an equal-weight ERA5 site average, not plant-level weather."
     ), encoding="utf-8")
     return {
