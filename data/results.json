@@ -71,6 +71,34 @@
     "drop_previous_mwh": 42352.056639,
     "drop_mwh": 5339.668839,
     "largest_rise_date": "2025-02-13",
-    "largest_rise_pct": 749.795899955061
+    "largest_rise_pct": 749.795899955061,
+    "season_mean_gwh_day": {
+      "Winter": 27.001,
+      "Spring": 39.512,
+      "Summer": 41.334,
+      "Autumn": 29.169
+    },
+    "season_days": {
+      "Winter": 90,
+      "Spring": 92,
+      "Summer": 92,
+      "Autumn": 91
+    },
+    "cloud_mean_gwh_day": {
+      "clear": 42.827,
+      "partly": 36.451,
+      "cloudy": 27.075
+    },
+    "cloud_days": {
+      "clear": 92,
+      "partly": 127,
+      "cloudy": 146
+    },
+    "cloud_clear_vs_cloudy_pct": 58.18,
+    "cloud_energy_pearson_r": -0.544,
+    "rainy_days_ge_1mm": 126,
+    "rainy_mean_gwh_day": 24.718,
+    "dry_mean_gwh_day": 39.363,
+    "within_season_clear_gt_cloudy": true
   }
 }
