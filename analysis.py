@@ -132,7 +132,7 @@ def main():
     for link in links:
         path = ROOT/link
         assert path.exists() and (
-            path.read_bytes().startswith(b'\\x89PNG\\r\\n\\x1a\\n')
+            path.read_bytes().startswith(b'\x89PNG\r\n\x1a\n')
             if path.suffix.lower() == '.png' else
             (path.suffix.lower() == '.svg' and path.read_text(encoding='utf-8').startswith('<svg '))
         )
