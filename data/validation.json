@@ -13,7 +13,7 @@
   "original_hourly_daily_monthly_totals_match": true,
   "first7_mean_independent_check": true,
   "time_grid_complete": true,
-  "code_execution_success": true,
+  "code_execution_success": null,
   "five_visualizations": true,
   "season_weather_analysis": true
 }
