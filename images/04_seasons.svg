@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430">
+<rect width="920" height="430" fill="#ffffff"/>
+<text x="36" y="48" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#14283f">Solar energy by season (2025)</text>
+<text x="36" y="77" font-family="Arial, sans-serif" font-size="16" fill="#46596f">Mean daily energy (GWh/day) | KPX traded solar</text>
+<text x="42" y="145" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Winter</text>
+<rect x="225" y="117" width="297.0" height="38" rx="7" fill="#a7cfd1"/>
+<text x="536.0" y="144" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">27.00</text>
+<text x="42" y="209" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Spring</text>
+<rect x="225" y="181" width="434.6" height="38" rx="7" fill="#a7cfd1"/>
+<text x="673.6" y="208" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">39.51</text>
+<text x="42" y="273" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Summer</text>
+<rect x="225" y="245" width="454.7" height="38" rx="7" fill="#147d85"/>
+<text x="693.7" y="272" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">41.33</text>
+<text x="42" y="337" font-family="Arial, sans-serif" font-size="18" fill="#14283f">Autumn</text>
+<rect x="225" y="309" width="320.9" height="38" rx="7" fill="#a7cfd1"/>
+<text x="559.9" y="336" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#14283f">29.17</text>
+<text x="36" y="408" font-family="Arial, sans-serif" font-size="14" fill="#46596f">Season: Winter=Dec-Feb, Spring=Mar-May, Summer=Jun-Aug, Autumn=Sep-Nov</text>
+</svg>
